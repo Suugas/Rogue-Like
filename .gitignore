@@ -10,6 +10,7 @@ target/
 *.iml
 *.ipr
 /.mvn/
+.class
 
 ### Eclipse ###
 .apt_generated
